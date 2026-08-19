@@ -4,7 +4,7 @@ description: >-
   step-by-step technique, figures, and dictation-ready operative-note templates
   across cranial, spine, vascular, functional, peripheral-nerve, and pediatric neurosurgery.
 url: "https://pterionprep.com"
-baseurl: ""
+baseurl: "/neurosurgery-case-prep-guide"
 github_repo: "https://github.com/aprice94/neurosurgery-case-prep-guide"
 cranipro_url: "https://cranipro.com"
 vumc_case_prep_url: "https://vumc.pterionprep.com"
